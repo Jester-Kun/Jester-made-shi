@@ -1,8 +1,8 @@
 <div align="center">
    
-## 𝐀𝖓𝐲𝖆 𝖇𝐲 𝕻𝖎𝖐𝖆𝖈𝖍𝖚
+## 𝓔𝓥𝓐 𝖇𝐲 𝓙𝓔𝓢𝓣𝓔𝓡
 <p align="center">
-<img src="./AnyaPikaMedia/HomeScreen/Anyapic.jpg" alt="Pika" height= "auto" width="auto"/>
+<img src="https://images2.alphacoders.com/122/1223350.jpg" alt="Ethan Evaganza" height= "auto" width="auto"/>
 
 
 </p>

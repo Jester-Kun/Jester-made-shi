@@ -36,8 +36,8 @@ name17 = "𝓔𝓥𝓔 🎀"
 name18 = "𝓔𝓥𝓔 🎀"
 
 //--------Random footer message-----------\\
-footer1 = `EVaㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ `
-footer2 = `EVaㅤꪜ⃢𝟤ㅤ𓆩×͜×𓆪ꪾ`
+footer1 = `𝓔𝓥𝓐 ♥ ×͜× `
+footer2 = `𝓔𝓥𝓐 ♥ ×͜×`
 
 //--------Left message "Nikal msg"--------\\
 nikalmsg1 = 'Ye galiye ye choubara, yaha dikhna na dubara 😚🖕🏻' 

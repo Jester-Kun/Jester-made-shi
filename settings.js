@@ -28,7 +28,7 @@ global.email = "example@exmaple.com" // put your email here
 //------------ 🌟 Premium Users 🌟-------------\\
 global.premium = ['+1(769)307-1418']
 
-global.prefa = ['-','/']
+global.prefa = ['-']
 
 //--------Random bot name for Info section--------\\
 name16 = "𝓔𝓥𝓔 🎀"

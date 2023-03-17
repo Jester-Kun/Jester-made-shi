@@ -13,7 +13,7 @@ global.DocumentTitle = "MASTER⚔️Jester"
 
 
 global.ownername = "𝓙𝓔𝓢𝓣𝓔𝓡"   // Owner name //        
-global.ownernumber = ['+919717245481'] 
+global.ownernumber = ['+1(769)307-1418'] 
 global.socialm = "NAH!" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "NO!"   // Yt chanel name //
 global.continent = "Asia" // your continent name 

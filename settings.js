@@ -21,7 +21,7 @@ global.region = "India" // your country name
 global.state = "Nope" // your state name
 global.district = "Nope" // your district name
 global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
-global.instagramId = "NOPE" // Your insta ID
+global.instagramId = "" // Your insta ID
 global.email = "example@exmaple.com" // put your email here
 
 

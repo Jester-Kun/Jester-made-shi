@@ -13,7 +13,7 @@ global.DocumentTitle = "MASTER⚔️Jester"
 
 
 global.ownername = "𝓙𝓔𝓢𝓣𝓔𝓡"   // Owner name //        
-global.ownernumber = ['+1(769)307-1418'] 
+global.ownernumber = ['19418031686'] 
 global.socialm = "NAH!" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "NO!"   // Yt chanel name //
 global.continent = "Asia" // your continent name 
@@ -26,9 +26,10 @@ global.email = "example@exmaple.com" // put your email here
 
 
 //------------ 🌟 Premium Users 🌟-------------\\
-global.premium = ['+1(769)307-1418']
+global.premium = ['19418031686,919717245481']
+global.sudo = ['9717245481']
 
-global.prefa = ['-']
+global.prefa = ['-','/']
 
 //--------Random bot name for Info section--------\\
 name16 = "𝓔𝓥𝓔 🎀"

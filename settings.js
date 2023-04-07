@@ -5,7 +5,7 @@ const chalk = require('chalk')
 global.botname = "Mrs. Ethan Evaganza" 
 global.botLanguage = "default" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 || 𝗛𝗶𝗻𝗱𝗶 || 𝗔𝗿𝗮𝗯𝗶𝗰 \\
 global.author = "𝓙𝓔𝓢𝓣𝓔𝓡"  
-global.packname = "𝙈𝙧𝙨.𝙀𝙫𝙖 "  
+global.packname = "𝓔𝓥𝓔 🎀"  
 global.myweb = "https://github.com aage ka nhi pta" // You can put any link 
 global.waterMark = "×͜× 𝓙𝓔𝓢𝓣𝓔𝓡 ✘𝙀𝙫𝙖 ✓" // Your own watermark 
 global.headerText = "Eva by Jester." // text for header of menu         
@@ -26,7 +26,7 @@ global.email = "example@exmaple.com" // put your email here
 
 
 //------------ 🌟 Premium Users 🌟-------------\\
-global.premium = ['919717245481']
+global.premium = ['19418031686']
 
 
 global.prefa = ['-','/']

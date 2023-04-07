@@ -27,7 +27,7 @@ global.email = "example@exmaple.com" // put your email here
 
 //------------ 🌟 Premium Users 🌟-------------\\
 global.premium = ['919717245481']
-global.sudo = ['919717245481']
+
 
 global.prefa = ['-','/']
 
